@@ -14,9 +14,9 @@ PyInstaller agrupa una aplicación de Python y todas sus dependencias en un solo
 
 
 
-## Install
+## Instalacion :
 
 ```bash
-$ pip install PyGithub
+$ pip install -U pyinstaller
 ```
 
