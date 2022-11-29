@@ -16,6 +16,7 @@ PyInstaller agrupa una aplicación de Python y todas sus dependencias en un solo
 
 ## Instalacion :
 
+PyInsataller
 ```bash
 $ pip install -U pyinstaller
 ```
